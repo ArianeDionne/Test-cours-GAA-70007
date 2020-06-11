@@ -1,7 +1,7 @@
 ---
 title: "Projet_test_cours"
 author: "Ariane Dionne"
-date: "'r format(Sys.Date())'"
+date: "`r Sys.Date()`"
 output: github_document
 ---
 
@@ -10,6 +10,8 @@ output: github_document
 Ceci est en **gras**
 
 Ceci est en *italique*
+
+[Journal](www.ledevoir.com)
 
 Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Potenti nullam ac tortor vitae purus. Mattis vulputate enim nulla aliquet. Magna fringilla urna porttitor rhoncus dolor purus non enim. Lectus proin nibh nisl condimentum id venenatis a condimentum. Malesuada proin libero nunc consequat interdum varius sit. Vel pharetra vel turpis nunc eget lorem dolor. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Gravida quis blandit turpis cursus in hac habitasse platea. Ut aliquam purus sit amet luctus venenatis lectus magna.
 
