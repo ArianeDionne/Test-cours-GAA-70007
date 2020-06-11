@@ -1,0 +1,46 @@
+---
+title: "Projet_test_cours"
+author: "Ariane Dionne"
+date: "'r format(Sys.Date())'"
+output: github_document
+---
+
+## Introduction 
+
+Ceci est en **gras**
+
+Ceci est en *italique*
+
+Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Potenti nullam ac tortor vitae purus. Mattis vulputate enim nulla aliquet. Magna fringilla urna porttitor rhoncus dolor purus non enim. Lectus proin nibh nisl condimentum id venenatis a condimentum. Malesuada proin libero nunc consequat interdum varius sit. Vel pharetra vel turpis nunc eget lorem dolor. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Gravida quis blandit turpis cursus in hac habitasse platea. Ut aliquam purus sit amet luctus venenatis lectus magna.
+
+```{r}
+a <- "ours"
+b <- "polaire"
+paste(a,b)
+```
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
