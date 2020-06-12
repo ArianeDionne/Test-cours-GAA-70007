@@ -9,6 +9,14 @@ Ceci est en **gras**
 
 Ceci est en *italique*
 
+Ceci est en `largeur fixe`
+
+Ceci est une liste 1. Un 1. Deux 1. Trois
+
+Ceci est une équation \(c = \sqrt{a^2 + b^2}\)
+
+Ceci est une image ![nom de l’image](photos/work.jpg)
+
 [Journal](www.ledevoir.com)
 
 Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Potenti
