@@ -11,6 +11,18 @@ Ceci est en **gras**
 
 Ceci est en *italique*
 
+Ceci est en `largeur fixe`
+
+Ceci est une liste 
+1. Un 
+1. Deux
+1. Trois
+
+Ceci est une équation $c = \sqrt{a^2 + b^2}$
+
+Ceci est une image ![nom de l'image](photos/work.jpg)
+
+
 [Journal](www.ledevoir.com)
 
 Dictum fusce ut placerat orci nulla pellentesque dignissim enim. Potenti nullam ac tortor vitae purus. Mattis vulputate enim nulla aliquet. Magna fringilla urna porttitor rhoncus dolor purus non enim. Lectus proin nibh nisl condimentum id venenatis a condimentum. Malesuada proin libero nunc consequat interdum varius sit. Vel pharetra vel turpis nunc eget lorem dolor. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Gravida quis blandit turpis cursus in hac habitasse platea. Ut aliquam purus sit amet luctus venenatis lectus magna.
