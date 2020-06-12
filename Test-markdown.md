@@ -11,7 +11,13 @@ Ceci est en *italique*
 
 Ceci est en `largeur fixe`
 
-Ceci est une liste 1. Un 1. Deux 1. Trois
+Ceci est une liste
+
+1.  Item 1
+2.  Item 2
+3.  Item 3
+      - Item 3a
+      - Item 3b
 
 Ceci est une équation \(c = \sqrt{a^2 + b^2}\)
 
