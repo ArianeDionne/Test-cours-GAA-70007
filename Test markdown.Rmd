@@ -36,7 +36,7 @@ b <- "polaire"
 paste(a,b)
 ```
 
-
+The data and the R code used to compute the results are both available as supplementary material at [lien](https://github.com/ArianeDionne/Test-cours-GAA-70007.git)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

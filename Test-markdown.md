@@ -1,7 +1,7 @@
 Projet\_test\_cours
 ================
 Ariane Dionne
-2020-06-11
+2020-06-12
 
 ## Introduction
 
@@ -41,6 +41,10 @@ paste(a,b)
 ```
 
     ## [1] "ours polaire"
+
+The data and the R code used to compute the results are both available
+as supplementary material at
+[lien](https://github.com/ArianeDionne/Test-cours-GAA-70007.git)
 
 ## R Markdown
 
